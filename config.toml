@@ -31,7 +31,7 @@ summarylength = 25
 # Site Params
 [params]
   logo = "images/IC Studio web LOGO .png"
-  favicon_icon = ""
+  favicon_icon = "images/IC Studio web LOGO .png"
   favicon_shortcut_icon = ""
   custom_stylesheets = []   # [ "" ]
   dateFormat = ""
